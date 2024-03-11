@@ -1,6 +1,7 @@
 import React from 'react';
 import NavBar from './component/NavBar';
-import Homepage from './component/Homepage';
+import Homepage from './pages/Homepage.js';
+
 
 const MacBookAir = () => {
   return (
